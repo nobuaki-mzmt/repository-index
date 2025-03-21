@@ -8,6 +8,7 @@
 - [Mizumoto et al., 2024 PNAS](https://github.com/nobuaki-mzmt/tandem-fossil)
 - [Mizumoto et al., 2023 iScience](https://github.com/nobuaki-mzmt/diacamma-tandem)
 - [Mizumoto et al., 2022 Evolution](https://github.com/nobuaki-mzmt/TermiteNestTermitophile)
+- [Mizumoto et al., 2022 PNAS](https://github.com/nobuaki-mzmt/Rspe-homo-tandem)
 
 ## Packages
 
