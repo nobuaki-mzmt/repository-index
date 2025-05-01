@@ -15,5 +15,5 @@
 - [Mizumoto 2022 Ecol Evol](https://github.com/nobuaki-mzmt/tmanual)
 
 ## Link for myself
-- [hodo-tandem](https://https://github.com/williamchambliss/hodo-tandem)
+- [hodo-tandem](https://github.com/williamchambliss/hodo-tandem)
 - [worker_movement](https://github.com/Kensei-OIST/termites_worker_movement)
